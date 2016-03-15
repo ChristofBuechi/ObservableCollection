@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ObservableProject.iml" filepath="$PROJECT_DIR$/ObservableProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/observablecollection/observablecollection.iml" filepath="$PROJECT_DIR$/observablecollection/observablecollection.iml" />
+    </modules>
+  </component>
+</project>
